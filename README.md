@@ -7,7 +7,8 @@ Hi, I'm Sudeeksha Singh Solanki.
   
 👀 I’m learning React at the moment.
 
-📫You can connect to me on Linkedin.
+📫You can connect to me on Linkedin!
+ 
 
 <!--
 **sudeeksha705/Sudeeksha705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
