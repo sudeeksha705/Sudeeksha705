@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi, I'm Sudeeksha Singh Solanki. 
+
+🖥️ I've been coding in Python primarily for over 4 years.
+
+🌱Proficient in frontend web development and adept in machine learning, 
+  I create web applications with enhanced, intelligent user experiences.
+  
+👀 I’m learning React at the moment.
+
+📫You can connect to me on Linkedin.
 
 <!--
 **sudeeksha705/Sudeeksha705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
